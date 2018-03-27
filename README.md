@@ -1,15 +1,15 @@
 # SAR2NDVI_CNN
-(http://www.mdpi.com/2072-4292/10/2/236) 
+[A CNN-Based Fusion Method for Feature Extraction from Sentinel Data](http://www.mdpi.com/2072-4292/10/2/236) 
 
 A CNN is trained to perform the estimation of the NDVI, using coupled Sentinel-1 and Sentinel-2 time-series.
 
 
 # Team Members
 
-* Giuseppe Scarpa (giscarpa@unina.it); 
-* Massimiliano Gargiulo (massimiliano.gargiulo@unina.it); 
-* Antonio Mazza (contact person, antonio.mazza@unina.it); 
-* Raffaele Gaetano (raffaele.gaetano@cirad.fr). 
+* [Giuseppe Scarpa](giscarpa@unina.it); 
+* [Massimiliano Gargiulo](massimiliano.gargiulo@unina.it); 
+* [Antonio Mazza](antonio.mazza@unina.it), contact person; 
+* [Raffaele Gaetano](raffaele.gaetano@cirad.fr). 
 
 # License 
 
@@ -17,11 +17,11 @@ Copyright (c) 2018 Image Processing Research Group of University Federico II of 
 
 All rights reserved. This work should only be used for nonprofit purposes.
 
-By downloading and/or using any of these files, you implicitly agree to all the terms of the license, as specified in the document LICENSE.txt (included in this directory).
+By downloading and/or using any of these files, you implicitly agree to all the terms of the license, as specified in the document `LICENSE.txt` (included in this directory).
 
 # Prerequisites
 
-This code is written for Python2.7 and uses Theano and Lasagne libraries. The list of all requirements is in `requirements.txt`.
+This code is written for **Python2.7** and uses _Theano_ and _Lasagne_ libraries. The list of all requirements is in `requirements.txt`.
 
 The command to install the requirements is:
 
@@ -47,7 +47,7 @@ In the paper, these techniques correspond respectively to:
 SAR, SAR+, Optical/C, Optical, Optical-SAR/C, Optical-SAR, Optical-SAR+/C, Optical-SAR+.
 ```
 
-To train and/or test the CNN you have to use the `Train.py` and/or `Test.py`, in TRAINING and TEST directory respectively. 
+To train and/or test the CNN you have to use the `Train.py` and/or `Test.py`, in __TRAINING__ and __TEST__ directory respectively. 
 
 In these files you have to set the technique_name that you can choose from (1): 
 
@@ -57,7 +57,7 @@ In these files you have to set the technique_name that you can choose from (1):
 
 # Citing
 
-If you use this CNN-based approach in your research or wish to refer to the baseline results, please use the following BibTeX entry.
+If you use this CNN-based approach in your research or wish to refer to the baseline results, please use the following __BibTeX__ entry.
 ```
 @article{scarpa2018cnn,
   title={A CNN-Based Fusion Method for Feature Extraction from Sentinel Data},
