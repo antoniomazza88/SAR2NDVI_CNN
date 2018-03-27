@@ -35,7 +35,7 @@ Optional requirements for using gpu:
 
 # Usage
 
-Firstly, you have to download the dataset from [LINK](https://www.youtube.com/watch?v=W8EADzM4gok)
+Firstly, you have to download the dataset from [LINK](http://www.grip.unina.it/)
 The 8 proposed techniques to estimate the NDVI are:
 
 ```
