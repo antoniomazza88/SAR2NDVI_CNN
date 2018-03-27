@@ -1,0 +1,4 @@
+numpy==1.13.3
+scipy==1.0.0
+theano==0.7.0
+lasagne==0.2.dev1
