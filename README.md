@@ -13,7 +13,7 @@ A CNN is trained to perform the estimation of the NDVI, using coupled Sentinel-1
 
 # License 
 
-Copyright (c) 2018 Image Processing Research Group of University Federico II of Naples ('GRIP-UNINA').
+Copyright (c) 2018 [Image Processing Research Group of University Federico II of Naples, 'GRIP-UNINA'](www.grip.unina.it).
 
 All rights reserved. This work should only be used for nonprofit purposes.
 
